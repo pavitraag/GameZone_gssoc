@@ -26,7 +26,10 @@ Welcome to the Classic Jigsaw Puzzle Game! This game allows you to upload any im
 
 ## Screenshot 
 
-![image](/assets/images/Jigsaw_Puzzle_SS.png)
+![image](<img width="946" alt="image" src="https://github.com/user-attachments/assets/56d85c2d-fef7-4eaa-ae13-1590901dc1b0">
+)
+<img width="542" alt="image" src="https://github.com/user-attachments/assets/1d016ee3-7f19-4063-8a4c-39ccf7dd97aa">
+
 
 ## Enjoy the Game!
 
